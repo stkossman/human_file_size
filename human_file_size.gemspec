@@ -23,5 +23,5 @@ Gem::Specification.new do |spec|
   spec.metadata["allowed_push_host"] = "https://rubygems.org"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "Пhttps://github.com/stkossman/human_file_size"
+  spec.metadata["source_code_uri"] = "https://github.com/stkossman/human_file_size"
 end
