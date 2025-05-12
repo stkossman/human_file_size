@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    human_file_size (0.1.0)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    minitest (5.25.5)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  human_file_size!
+  minitest
+
+BUNDLED WITH
+   2.6.8
